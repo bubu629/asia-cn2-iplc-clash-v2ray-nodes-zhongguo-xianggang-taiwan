@@ -15,7 +15,7 @@
 > - 💰 **合伙人奖励**：专属邀请码享 **10% 佣金**，支持随时提现或抵扣[cite: 3]
 > 
 > 🔗 **快速注册通道**：[前往官网注册领取 200G](https://haovpn.xyz) *(邀请码：`cbT7Rfxg`)*[cite: 1, 3]  
-> 📥 **亚太测试订阅源**：`https://haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> 📥 **亚太测试订阅源**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🛠️ 快速配置说明
 
-1. 访问 [haovpn.xyz](https://haovpn.xyz) 注册账号，使用邀请码 `cbT7Rfxg` 激活赠送的 200G 套餐[cite: 1, 3]。
+1. 访问 [www.haovpn.xyz](https://www.haovpn.xyz) 注册账号，使用邀请码 `cbT7Rfxg` 激活赠送的 200G 套餐[cite: 1, 3]。
 2. 复制上方测试订阅链接[cite: 1]：
    ```text
-   [https://haovpn.xyz/s/01046da34d021c1d30c723be5092070b](https://haovpn.xyz/s/01046da34d021c1d30c723be5092070b)
+   [https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b](https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b)
