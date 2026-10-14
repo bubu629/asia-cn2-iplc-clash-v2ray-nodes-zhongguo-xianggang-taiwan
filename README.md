@@ -1,10 +1,10 @@
 # asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan
 🚀 亚太高速专线节点合集 | 专为中国大陆/亚洲网络优化 | 免费领200G高速流量 | 解锁 4K/ChatGPT/Netflix
 # 🌏 Asia High-Speed Nodes | 亚太低延迟高速专线节点池 (Daily Updated)
-
+官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 专为**中国大陆、港澳台及东南亚/东亚**网络环境量身优化的全协议免费节点池。针对直连延迟高、晚高峰拥堵、跨境阻断进行深度优化，提供低延迟高速体验。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 > ### 🎁 亚太开发者迎新专享：免费领取 200G 直连高速流量
 > 
@@ -17,7 +17,7 @@
 > 🔗 **快速注册通道**：[前往官网注册领取 200G](https://haovpn.xyz) *(邀请码：`cbT7Rfxg`)*[cite: 1, 3]  
 > 📥 **亚太测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📊 节点区域与适用场景
 
@@ -28,7 +28,7 @@
 | **🇸🇬 新加坡 (Singapore)** | 50ms - 80ms | 完美支持 AI 工具 (ChatGPT / Claude / API 调试) |
 | **🇹🇼 台湾 (Taiwan)** | 35ms - 60ms | 华语流媒体、动画疯、影视超清 4K 解锁 |
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🛠️ 快速配置说明
 
