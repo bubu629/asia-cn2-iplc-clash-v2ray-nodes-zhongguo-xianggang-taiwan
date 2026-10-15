@@ -5,7 +5,8 @@
 专为**中国大陆、港澳台及东南亚/东亚**网络环境量身优化的全协议免费节点池。针对直连延迟高、晚高峰拥堵、跨境阻断进行深度优化，提供低延迟高速体验。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > ### 🎁 亚太开发者迎新专享：免费领取 200G 直连高速流量
 > 
 > - ⚡ **高速额度**：新用户注册即赠 **200 GB** 不限速高速流量[cite: 1]
@@ -20,7 +21,8 @@
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📊 节点区域与适用场景
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 | 地区节点 | 延迟表现 | 推荐用途 |
 | :--- | :--- | :--- |
 | **🇭🇰 香港 (Hong Kong)** | 20ms - 45ms | 极低延迟、日常查阅资料、GitHub/Git 加速 |
