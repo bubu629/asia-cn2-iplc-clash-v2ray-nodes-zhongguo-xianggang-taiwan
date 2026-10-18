@@ -8,13 +8,15 @@
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > ### 🎁 亚太开发者迎新专享：免费领取 200G 直连高速流量
-> 
+> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > - ⚡ **高速额度**：新用户注册即赠 **200 GB** 不限速高速流量[cite: 1]
 > - 🚀 **全平台兼容**：支持 Clash Verge / Mihomo / Sing-box / 小火箭 / v2rayN 一键导入[cite: 1, 3]
 > - 🌐 **低延迟专线**：聚合 **香港 (HK)、日本 (JP)、新加坡 (SG)、台湾 (TW)** 优质低延迟线路
 > - 🎬 **完美解锁**：针对 ChatGPT、Claude、TikTok、YouTube 4K、Netflix 进行原生流媒体解锁优化
 > - 💰 **合伙人奖励**：专属邀请码享 **10% 佣金**，支持随时提现或抵扣[cite: 3]
-> 
+> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > 🔗 **快速注册通道**：[前往官网注册领取 200G](https://haovpn.xyz) *(邀请码：`cbT7Rfxg`)*[cite: 1, 3]  
 > 📥 **亚太测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
