@@ -1,4 +1,15 @@
 # asia-cn2-iplc-clash-v2ray-nodes-zhongguo-xianggang-taiwan
+
+> ⚠️ **高阶用户注意：为什么换了节点，Claude / ChatGPT / 跨境店铺还是被封？**
+> 
+> 普通 VPN 仅改变网络出口，无法掩盖您本地电脑的底层硬件指纹与代理协议特征。如果您从事以下**高风控业务**，强烈建议升级使用我们的姐妹项目 **[MacHub — 加拿大原生 Mac mini 独享物理机](https://machub.co/)**：
+> * 🤖 **AI 编程防封**：原生加拿大本地宽带 + 真实 Apple 硬件，100% 告别 Claude / Cursor 封号与验证码。
+> * 🛍️ **跨境与多账号防关联**：Apple Developer 开发者账号、Stripe/PayPal 离岸网银、TikTok 矩阵物理级安全隔离。
+> * ⚡ **远程算力与 iOS 打包**：独享 M4/M6 芯片物理机，全权限 SSH/远程桌面秒连，测试机仅需 **$10/月起**！
+> 
+> 👉 **[点击前往 MacHub 官网选配](https://machub.co/)** | 💬 **[点击在 WhatsApp 咨询技术工程师](https://api.whatsapp.com/send?phone=17052807570)**
+
+
 🚀 亚太高速专线节点合集 | 专为中国大陆/亚洲网络优化 | 免费领200G高速流量 | 解锁 4K/ChatGPT/Netflix
 # 🌏 Asia High-Speed Nodes | 亚太低延迟高速专线节点池 (Daily Updated)
 官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
