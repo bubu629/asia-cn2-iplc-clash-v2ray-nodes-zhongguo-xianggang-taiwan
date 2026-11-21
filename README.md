@@ -16,38 +16,49 @@
 专为**中国大陆、港澳台及东南亚/东亚**网络环境量身优化的全协议免费节点池。针对直连延迟高、晚高峰拥堵、跨境阻断进行深度优化，提供低延迟高速体验。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
- * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
-> ### 🎁 亚太开发者迎新专享：免费领取 200G 直连高速流量
-> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
-> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
-> - ⚡ **高速额度**：新用户注册即赠 **200 GB** 不限速高速流量[cite: 1]
-> - 🚀 **全平台兼容**：支持 Clash Verge / Mihomo / Sing-box / 小火箭 / v2rayN 一键导入[cite: 1, 3]
-> - 🌐 **低延迟专线**：聚合 **香港 (HK)、日本 (JP)、新加坡 (SG)、台湾 (TW)** 优质低延迟线路
-> - 🎬 **完美解锁**：针对 ChatGPT、Claude、TikTok、YouTube 4K、Netflix 进行原生流媒体解锁优化
-> - 💰 **合伙人奖励**：专属邀请码享 **10% 佣金**，支持随时提现或抵扣[cite: 3]
-> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
-> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
-> 🔗 **快速注册通道**：[前往官网注册领取 200G](https://haovpn.xyz) *(邀请码：`cbT7Rfxg`)*[cite: 1, 3]  推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
-> 📥 **亚太测试订阅源**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
-如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-推荐直接注册会员，里面有免费套餐可以使用。体验订阅链接使用人数过多，会经常失效，请直接注册会员。
-## 📊 节点区域与适用场景
-* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
- * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
-| 地区节点 | 延迟表现 | 推荐用途 |
-| :--- | :--- | :--- |
-| **🇭🇰 香港 (Hong Kong)** | 20ms - 45ms | 极低延迟、日常查阅资料、GitHub/Git 加速 |
-| **🇯🇵 日本 (Japan)** | 40ms - 70ms | 稳定性极佳、外贸跨境、游戏与流媒体 |
-| **🇸🇬 新加坡 (Singapore)** | 50ms - 80ms | 完美支持 AI 工具 (ChatGPT / Claude / API 调试) |
-| **🇹🇼 台湾 (Taiwan)** | 35ms - 60ms | 华语流媒体、动画疯、影视超清 4K 解锁 |
-如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
+# 🚀 HaoVPN — 极简高速 Android 专属客户端 (v1.0.2)
 
-## 🛠️ 快速配置说明
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.2-00D4FF?style=for-the-badge&logo=github)](https://github.com/bubu629/haovpn-releases/releases/tag/v1%2C0%2C2)
+[![Platform](https://img.shields.io/badge/Platform-Android_ARM64-3DDC84?style=for-the-badge&logo=android)](https://github.com/bubu629/haovpn-releases/releases/tag/v1%2C0%2C2)
+[![Core](https://img.shields.io/badge/Core-sing--box-1E3A5F?style=for-the-badge)](https://www.haovpn.xyz)
 
-1. 访问 [www.haovpn.xyz](https://www.haovpn.xyz) 注册账号，使用邀请码 `cbT7Rfxg` 激活赠送的 200G 套餐[cite: 1, 3]。
-2. 复制上方测试订阅链接[cite: 1]：
-   ```text
-   [https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b](https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b)
+**HaoVPN** 是一款基于新一代 `sing-box` 内核打造的轻量级 Android 代理客户端。告别繁琐的订阅导入与参数配置，登录即可一键连接全球高速节点，专为稳定、低延迟和省电而生。
+
+---
+
+## 📥 立即下载
+
+* **v1.0.2 发布页**：[点击前往 GitHub Release 下载](https://github.com/bubu629/haovpn-releases/releases/tag/v1%2C0%2C2)
+* **最新版直链**：[直接下载 APK 安装包 (app-arm64-v8a-release.apk)](https://github.com/bubu629/haovpn-releases/releases/latest/download/app-arm64-v8a-release.apk)
+* **官方网站 / 注册账号**：[https://www.haovpn.xyz](https://www.haovpn.xyz)
+
+---
+
+## ✨ 核心亮点
+
+* **⚡ 开箱即用，零配置门槛**：无需复制订阅链接或手动调参，输入账号即可自动同步全部最新节点与套餐。
+* **🧠 智能防掉线与自动择优**：内置 `smart-auto` 智能故障转移，自动绕过波动线路，始终保持最优连接。
+* **🛡️ 新一代 AnyTLS 协议支持**：底层深度优化 TLS 握手兼容性，穿透强、抗干扰、连接更稳。
+* **🔋 极简无广告，后台更省电**：精简正式版界面，关闭冗余调试输出，长时间挂机不发热、不卡顿。
+* **🔑 无感登录体验**：支持自动保持登录状态与账号密码记忆，退出登录时自动安全断开 VPN 隧道。
+
+---
+
+## 📱 快速上手（3 步连接）
+
+1. 点击上方链接下载 `app-arm64-v8a-release.apk` 并完成安装。
+2. 打开 **HaoVPN**，使用邮箱登录（新用户可直接在 App 内免费注册，或前往 [haovpn.xyz](https://www.haovpn.xyz) 注册）。
+3. 点击首页连接按钮，授予系统 VPN 权限即可畅享高速网络。
+
+---
+
+## 🆕 v1.0.2 更新日志
+
+* 新增登录状态自动保持与账号密码记忆回填功能。
+* 优化退出账号时的底层隧道清理，退出即自动断开连接。
+* 精简正式版首页 UI，隐藏调试日志入口并将内核日志调整为低耗电模式。
+* 修复部分节点 TLS/ECH 握手兼容问题，大幅提升连接成功率。
+
+---
+
+> **提示**：如遇浏览器下载拦截，请允许保存 APK 文件；Android 安装时若提示「未知来源应用」，允许本次安装即可。
